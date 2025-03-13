@@ -19,35 +19,34 @@ Thank you for visiting my repository!
 ## ShanghaiTech Courses:
 This section contains materials, projects, and assignments related to the courses I’ve taken at ShanghaiTech University. It showcases the knowledge and skills I’ve developed during my academic journey.
 ### Artificial Intelligence
-+ [CS181: Artificial Intelligence](https://github.com/Rankyer/ShanghaiTech-CS181-Project)
-+ [CS182: Introduction to Machine Learning](https://github.com/Rankyer/ShanghaiTech-CS182-Project)
++ 2024 Fall [CS181: Artificial Intelligence](https://github.com/Rankyer/ShanghaiTech-CS181-Project)
++ 2024 Fall [CS182: Introduction to Machine Learning](https://github.com/Rankyer/ShanghaiTech-CS182-Project)
++ 2025 Spring [CS274A: Natural Language Processing](https://github.com/Rankyer/ShanghaiTech-CS274A/)
 
 ### Computer Science
-+ [CS110: Computer ArchitectureⅠ](https://github.com/Rankyer/ShanghaiTech-CS110)
-+ [CS132: Software Engineering](https://github.com/Rankyer/ShanghaiTech-CS132)
-+ [CS181: Artificial Intelligence](https://github.com/Rankyer/ShanghaiTech-CS181-Project)
-+ [CS182: Introduction to Machine Learning](https://github.com/Rankyer/ShanghaiTech-CS182-Project)
++ 2024 Spring [CS110: Computer ArchitectureⅠ](https://github.com/Rankyer/ShanghaiTech-CS110)
++ 2024 Spring [CS132: Software Engineering](https://github.com/Rankyer/ShanghaiTech-CS132)
++ 2022 Fall [SI100B: Introduction to Information Science and Technology](https://github.com/Rankyer/ShanghaiTech-SI100B-Project)
 
 ### Electronic Engineering
-+ [EE111l: Electronic Circuit](https://github.com/Rankyer/ShanghaiTech-EE111L) 
-+ [EE115B: Digital Circuit](https://github.com/Rankyer/ShanghaiTech-EE115B)
++ 2023 Fall [EE111l: Electronic Circuit](https://github.com/Rankyer/ShanghaiTech-EE111L) 
++ 2024 Spring [EE115B: Digital Circuit](https://github.com/Rankyer/ShanghaiTech-EE115B)
 
 ### Math
-+ [SI100B: Introduction to Information Science and Technology](https://github.com/Rankyer/ShanghaiTech-SI100B-Project)
-+ [SI140: Probability and Statistics for Information Science](https://github.com/Rankyer/ShanghaiTech-SI140)
++ 2023 Fall [SI140: Probability and Statistics for Information Science](https://github.com/Rankyer/ShanghaiTech-SI140)
 
 ### Physics
-+ [PHYS1111: General Physics I Lab](https://github.com/Rankyer/ShanghaiTech-PHYS1111)
++ 2023 Fall [PHYS1111: General Physics I Lab](https://github.com/Rankyer/ShanghaiTech-PHYS1111)
 
 ### Biology
-+ [BIO1011: Introduction to Current Life Science](https://github.com/Rankyer/ShanghaiTech-BIO1011)
-+ [BME1101: Introduction to Biomedical Engineering](https://github.com/Rankyer/ShanghaiTech-BME1101)
++ 2025 Spring [BIO1011: Introduction to Current Life Science](https://github.com/Rankyer/ShanghaiTech-BIO1011)
++ 2022 Fall [BME1101: Introduction to Biomedical Engineering](https://github.com/Rankyer/ShanghaiTech-BME1101)
 
 ### Economy
-+ [ECON1001: Introduction to Economics](https://github.com/Rankyer/ShanghaiTech-ECON1001)
++ 2023 Spring [ECON1001: Introduction to Economics](https://github.com/Rankyer/ShanghaiTech-ECON1001)
 
 ### Philosophy
-+ [GEHA1160: Francis Bacon](https://github.com/Rankyer/ShanghaiTech-GEHA1160)
++ 2023 Fall [GEHA1160: Francis Bacon](https://github.com/Rankyer/ShanghaiTech-GEHA1160)
 
 ## NUS Summer Workshop:
 This section covers the work and projects I completed during the NUS (National University of Singapore) Summer Workshop. It includes hands-on experiences and collaborative projects undertaken during the program.
