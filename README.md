@@ -22,34 +22,34 @@ If you have any questions or would like to discuss anything further, feel free t
 ---
 ## ShanghaiTech Courses:
 This section contains materials, projects, and assignments related to the courses I’ve taken at ShanghaiTech University. It showcases the knowledge and skills I’ve developed during my academic journey.
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 + 2024 Fall [CS181: Artificial Intelligence](https://github.com/Rankyer/ShanghaiTech-CS181-Project) (A-)
 + 2024 Fall [CS182: Introduction to Machine Learning](https://github.com/Rankyer/ShanghaiTech-CS182-Project) (A+)
 + 2025 Spring [CS274A: Natural Language Processing](https://github.com/Rankyer/ShanghaiTech-CS274A/)
 
-### Computer Science
+### 💻 Computer Science
 + 2024 Spring [CS110: Computer ArchitectureⅠ](https://github.com/Rankyer/ShanghaiTech-CS110) (A-)
 + 2024 Spring [CS132: Software Engineering](https://github.com/Rankyer/ShanghaiTech-CS132) (A)
 + 2022 Fall [SI100B: Introduction to Information Science and Technology](https://github.com/Rankyer/ShanghaiTech-SI100B-Project)
 
-### Electronic Engineering
+### 🕹️ Electronic Engineering
 + 2023 Fall [EE111l: Electronic Circuit](https://github.com/Rankyer/ShanghaiTech-EE111L) (A)
 + 2024 Spring [EE115B: Digital Circuit](https://github.com/Rankyer/ShanghaiTech-EE115B) (A+)
 
-### Math
+### ➕ Math
 + 2023 Fall [SI140: Probability and Statistics for Information Science](https://github.com/Rankyer/ShanghaiTech-SI140) (A)
 
-### Physics
+### ⚛️ Physics
 + 2023 Fall [PHYS1111: General Physics I Lab](https://github.com/Rankyer/ShanghaiTech-PHYS1111) (A)
 
-### Biology
+### ⚗️ Biology
 + 2025 Spring [BIO1011: Introduction to Current Life Science](https://github.com/Rankyer/ShanghaiTech-BIO1011)
 + 2022 Fall [BME1101: Introduction to Biomedical Engineering](https://github.com/Rankyer/ShanghaiTech-BME1101) (A)
 
-### Economy
+### 💰 Economy
 + 2023 Spring [ECON1001: Introduction to Economics](https://github.com/Rankyer/ShanghaiTech-ECON1001)
 
-### Philosophy
+### 🥸 Philosophy
 + 2023 Fall [GEHA1160: Francis Bacon](https://github.com/Rankyer/ShanghaiTech-GEHA1160) (A-)
 
 ## NUS Summer Workshop:
