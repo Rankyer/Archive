@@ -1,19 +1,23 @@
 # Welcome to My GitHub Repository Collection 👀 
 
-This repository serves as a categorized summary of all my GitHub projects and activities. It provides an organized overview of the work I've done across various domains. 
+This repository serves as a categorized summary of all my GitHub projects and activities.🙌 It provides an organized overview of the work I've done across various domains. 
 Below are the main categories included:
 ## Categories
-+ ShanghaiTech Courses
-+ NUS Summer Workshop
-+ Competition
-+ Research Interest
-+ Personal Profile
+🏫 ShanghaiTech Courses
+
+🌴 NUS Summer Workshop
+
+🌐 Competition
+
+🔬 Research Interest
+
+🤵 Personal Profile
 
 If you have any questions or would like to discuss anything further, feel free to contact me at:
 
 📧 **Email**: [yangrk2022@shanghaitech.edu.cn](mailto:yangrk2022@shanghaitech.edu.cn)
 
-Thank you for visiting my repository!
+🍕 Thank you for visiting my repository!
 
 ---
 ## ShanghaiTech Courses:
