@@ -55,10 +55,10 @@ This section contains materials, projects, and assignments related to the course
 ## NUS Summer Workshop:
 This section covers the work and projects I completed during the NUS (National University of Singapore) Summer Workshop. It includes hands-on experiences and collaborative projects undertaken during the program.
 
-## 🧪 Labs
+### 🧪 Labs
 + 2024 Summer [Deep Learning Labs](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-DeepLearning-Labs)
 
-## 🚗 Project
+### 🚗 Project
 + 2024 Summer [Project](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project) [Dataset](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project-Dataset) (A+)
 
 ## Competition:
