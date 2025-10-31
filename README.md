@@ -25,7 +25,7 @@ This section contains materials, projects, and assignments related to the course
 ### 🤖 Artificial Intelligence
 + 2024 Fall [CS181: Artificial Intelligence](https://github.com/Rankyer/ShanghaiTech-CS181-Project) (A-)
 + 2024 Fall [CS182: Introduction to Machine Learning](https://github.com/Rankyer/ShanghaiTech-CS182-Project) (A+)
-+ 2025 Spring [CS274A: Natural Language Processing](https://github.com/Rankyer/ShanghaiTech-CS274A/)
++ 2025 Spring [CS274A: Natural Language Processing](https://github.com/Rankyer/ShanghaiTech-CS274A/) (A-)
 
 ### 💻 Computer Science
 + 2024 Spring [CS110: Computer ArchitectureⅠ](https://github.com/Rankyer/ShanghaiTech-CS110) (A-)
@@ -55,13 +55,28 @@ This section contains materials, projects, and assignments related to the course
 ## NUS Summer Workshop:
 This section covers the work and projects I completed during the NUS (National University of Singapore) Summer Workshop. It includes hands-on experiences and collaborative projects undertaken during the program.
 
+## 🧪 Labs
++ 2024 Summer [Deep Learning Labs](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-DeepLearning-Labs)
+
+## 🚗 Project
++ 2024 Summer [Project](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project) [Dataset](https://github.com/Rankyer/NUS-SOC-SummerWorkshop-Project-Dataset) (A+)
+
 ## Competition:
 Here, you’ll find my participation in various competitions, including codes/reports and solutions to challenges. It reflects my ability to apply theoretical knowledge to real-world problems.
 
+### ✖️ Math
++ 2024 Fall [China Undergraduate Mathematical Contest in Modeling](https://github.com/Rankyer/CUMCM_2024) (Third Price)
+
+### 🛞 Electronic Engineering
++ 2024 Summer [National Undergraduate Electronic Design Contest](https://github.com/Rankyer/National-Undergraduate-Electronic-Design-Contest_NUEDC) (Third Price)
+
+### 🔬 Biomedical Engineering
++ 2025 Spring [China Physiological Signal Challenge (第十届全国大学生生物医学工程创新设计竞赛)](https://github.com/zivmax/bmedesign-cpsc) (Third Price)
 
 ## Research Interest:
 <!--This section highlights my research interests and related projects. It includes ongoing and completed work in areas I’m passionate about exploring further.-->
 
+### 🎵 Music
 
 
 ## Personal profile:
